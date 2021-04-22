@@ -74,5 +74,5 @@ function draw() {
   rope4.display();
   rope5.display();
   
- 
+ //Drag the bobs with ur mouse to interact
 }
